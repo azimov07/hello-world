@@ -1,3 +1,2 @@
 # hello-world
-for software class
-hahaha
+for software class project
