@@ -1,3 +1,3 @@
 # hello-world
 for software class project
-Lets fo it guys 
+Lets do it guys 
